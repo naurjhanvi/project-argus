@@ -9,6 +9,13 @@
 
 ---
 
+
+
+https://github.com/user-attachments/assets/e67f9d37-7e05-42eb-9575-afe646a766ca
+
+
+
+---
 ## Overview
 Project Argus is a lightweight, domain-agnostic anomaly detection framework engineered to protect air-gapped Industrial Control Systems (ICS) and safety-critical infrastructure (e.g., nuclear reactors, water treatment facilities) from sophisticated cyber-physical attacks. 
 

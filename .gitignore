@@ -1,0 +1,5 @@
+dataset/
+hai-22.04/
+summary/
+*.keras
+*.pkl
